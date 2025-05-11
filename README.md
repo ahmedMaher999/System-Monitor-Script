@@ -1,3 +1,4 @@
+
 # System Monitoring Script
 
 This script monitors the system's health by checking disk usage, CPU usage, and memory usage. It alerts the user if any of these resources exceed a specified threshold (default is 70%).
@@ -51,6 +52,34 @@ This script monitors the system's health by checking disk usage, CPU usage, and 
   THRESHOLD=70
   ```
 
+## Running the Script Automatically with Cron
+
+To automate the script to run at scheduled intervals, you can use `cron`.
+
+1. Open the crontab editor:
+   ```bash
+   crontab -e
+   ```
+
+2. Add a line to schedule the script and output the result to a log file:
+   ```bash
+   */30 * * * * /path/to/system_monitor.sh >> /path/to/sys_monitor_file.log 2>&1
+   ```
+
+   This example runs the script every 30 minutes and appends the output to `sys_monitor_file.log`.
+
+### Crontab Time Examples
+
+| Schedule              | Crontab Expression         | Description                      |
+|-----------------------|----------------------------|----------------------------------|
+| Every 5 minutes       | `*/5 * * * *`              | Runs every 5 minutes             |
+| Every hour            | `0 * * * *`                | Runs at the start of every hour  |
+| Daily at 7:00 AM      | `0 7 * * *`                | Runs every day at 7:00 AM        |
+| Weekly on Sunday 1AM  | `0 1 * * 0`                | Runs every Sunday at 1:00 AM     |
+| Monthly on the 1st    | `0 0 1 * *`                | Runs on the 1st of each month    |
+
+Make sure to use the absolute path for both the script and the log file in your crontab.
+
 ## Sample Output
 
 ```
@@ -85,3 +114,5 @@ Warning: The Used memory percentage is greater than 70%
    4567 apache2  1.9
    5678 mysqld   1.7
 ```
+
+
