@@ -1,0 +1,738 @@
+System Monitoring Alert - 2024-12-06 07:29:01
+
+System Monitoring Report - 2024-12-06 07:29:01
+=========================================
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+udev            2.5G     0  2.5G   0% /dev
+tmpfs           506M  1.6M  504M   1% /run
+/dev/sda5        39G   29G  8.4G  78% /
+tmpfs           2.5G     0  2.5G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           2.5G     0  2.5G   0% /sys/fs/cgroup
+/dev/sda1       511M  4.0K  511M   1% /boot/efi
+tmpfs           506M   32K  506M   1% /run/user/1000
+/dev/sr0         52M   52M     0 100% /media/rosuser/VBox_GAs_7.0.14
+
+==================
+[31mWarning: /dev/sda5 is above 70%[0m
+
+=========================================
+
+CPU Usage:
+Current CPU Usage: 3.2%
+
+=========================================
+
+Memory Usage:
+
+Total Memory       : 4.93359 GB
+Used Memory        : 0.943359 GB
+Buff/Cached Memory : 0.00683594 GB
+Free Memory        : 2.51953 GB
+
+=========================================
+
+    PID COMMAND         %MEM
+   2124 gnome-shell      6.7
+   2455 snap-store       3.1
+   2591 fwupd            1.7
+   1375 dockerd          1.4
+System Monitoring Alert - 2024-12-06 07:30:01
+
+System Monitoring Report - 2024-12-06 07:30:01
+=========================================
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+udev            2.5G     0  2.5G   0% /dev
+tmpfs           506M  1.5M  504M   1% /run
+/dev/sda5        39G   29G  8.4G  78% /
+tmpfs           2.5G     0  2.5G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           2.5G     0  2.5G   0% /sys/fs/cgroup
+/dev/sda1       511M  4.0K  511M   1% /boot/efi
+tmpfs           506M   32K  506M   1% /run/user/1000
+/dev/sr0         52M   52M     0 100% /media/rosuser/VBox_GAs_7.0.14
+
+==================
+[31mWarning: /dev/sda5 is above 70%[0m
+
+=========================================
+
+CPU Usage:
+Current CPU Usage: 0%
+
+=========================================
+
+Memory Usage:
+
+Total Memory       : 4.93359 GB
+Used Memory        : 0.9375 GB
+Buff/Cached Memory : 0.00683594 GB
+Free Memory        : 2.5127 GB
+
+=========================================
+
+    PID COMMAND         %MEM
+   2124 gnome-shell      6.7
+   2455 snap-store       3.1
+   2591 fwupd            1.7
+   1375 dockerd          1.4
+System Monitoring Alert - 2024-12-06 07:31:01
+
+System Monitoring Report - 2024-12-06 07:31:01
+=========================================
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+udev            2.5G     0  2.5G   0% /dev
+tmpfs           506M  1.5M  504M   1% /run
+/dev/sda5        39G   29G  8.4G  78% /
+tmpfs           2.5G     0  2.5G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           2.5G     0  2.5G   0% /sys/fs/cgroup
+/dev/sda1       511M  4.0K  511M   1% /boot/efi
+tmpfs           506M   32K  506M   1% /run/user/1000
+/dev/sr0         52M   52M     0 100% /media/rosuser/VBox_GAs_7.0.14
+
+==================
+[31mWarning: /dev/sda5 is above 70%[0m
+
+=========================================
+
+CPU Usage:
+Current CPU Usage: 0%
+
+=========================================
+
+Memory Usage:
+
+Total Memory       : 4.93359 GB
+Used Memory        : 0.938477 GB
+Buff/Cached Memory : 0.00683594 GB
+Free Memory        : 2.5127 GB
+
+=========================================
+
+    PID COMMAND         %MEM
+   2124 gnome-shell      6.7
+   2455 snap-store       3.1
+   2591 fwupd            1.7
+   1375 dockerd          1.4
+System Monitoring Alert - 2024-12-06 07:32:01
+
+System Monitoring Report - 2024-12-06 07:32:01
+=========================================
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+udev            2.5G     0  2.5G   0% /dev
+tmpfs           506M  1.5M  504M   1% /run
+/dev/sda5        39G   29G  8.4G  78% /
+tmpfs           2.5G     0  2.5G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           2.5G     0  2.5G   0% /sys/fs/cgroup
+/dev/sda1       511M  4.0K  511M   1% /boot/efi
+tmpfs           506M   32K  506M   1% /run/user/1000
+/dev/sr0         52M   52M     0 100% /media/rosuser/VBox_GAs_7.0.14
+
+==================
+[31mWarning: /dev/sda5 is above 70%[0m
+
+=========================================
+
+CPU Usage:
+Current CPU Usage: 2.9%
+
+=========================================
+
+Memory Usage:
+
+Total Memory       : 4.93359 GB
+Used Memory        : 0.938477 GB
+Buff/Cached Memory : 0.00683594 GB
+Free Memory        : 2.5127 GB
+
+=========================================
+
+    PID COMMAND         %MEM
+   2124 gnome-shell      6.7
+   2455 snap-store       3.1
+   2591 fwupd            1.7
+   1375 dockerd          1.4
+System Monitoring Alert - 2024-12-06 07:33:01
+
+System Monitoring Report - 2024-12-06 07:33:01
+=========================================
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+udev            2.5G     0  2.5G   0% /dev
+tmpfs           506M  1.5M  504M   1% /run
+/dev/sda5        39G   29G  8.4G  78% /
+tmpfs           2.5G     0  2.5G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           2.5G     0  2.5G   0% /sys/fs/cgroup
+/dev/sda1       511M  4.0K  511M   1% /boot/efi
+tmpfs           506M   32K  506M   1% /run/user/1000
+/dev/sr0         52M   52M     0 100% /media/rosuser/VBox_GAs_7.0.14
+
+==================
+[31mWarning: /dev/sda5 is above 70%[0m
+
+=========================================
+
+CPU Usage:
+Current CPU Usage: 0%
+
+=========================================
+
+Memory Usage:
+
+Total Memory       : 4.93359 GB
+Used Memory        : 0.938477 GB
+Buff/Cached Memory : 0.00683594 GB
+Free Memory        : 2.51172 GB
+
+=========================================
+
+    PID COMMAND         %MEM
+   2124 gnome-shell      6.7
+   2455 snap-store       3.1
+   2591 fwupd            1.7
+   1375 dockerd          1.4
+System Monitoring Alert - 2024-12-06 07:34:01
+
+System Monitoring Report - 2024-12-06 07:34:01
+=========================================
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+udev            2.5G     0  2.5G   0% /dev
+tmpfs           506M  1.5M  504M   1% /run
+/dev/sda5        39G   29G  8.4G  78% /
+tmpfs           2.5G     0  2.5G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           2.5G     0  2.5G   0% /sys/fs/cgroup
+/dev/sda1       511M  4.0K  511M   1% /boot/efi
+tmpfs           506M   32K  506M   1% /run/user/1000
+/dev/sr0         52M   52M     0 100% /media/rosuser/VBox_GAs_7.0.14
+
+==================
+[31mWarning: /dev/sda5 is above 70%[0m
+
+=========================================
+
+CPU Usage:
+Current CPU Usage: 0%
+
+=========================================
+
+Memory Usage:
+
+Total Memory       : 4.93359 GB
+Used Memory        : 0.938477 GB
+Buff/Cached Memory : 0.00683594 GB
+Free Memory        : 2.51172 GB
+
+=========================================
+
+    PID COMMAND         %MEM
+   2124 gnome-shell      6.7
+   2455 snap-store       3.1
+   2591 fwupd            1.7
+   1375 dockerd          1.4
+System Monitoring Alert - 2024-12-06 07:35:01
+
+System Monitoring Report - 2024-12-06 07:35:01
+=========================================
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+udev            2.5G     0  2.5G   0% /dev
+tmpfs           506M  1.5M  504M   1% /run
+/dev/sda5        39G   29G  8.4G  78% /
+tmpfs           2.5G     0  2.5G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           2.5G     0  2.5G   0% /sys/fs/cgroup
+/dev/sda1       511M  4.0K  511M   1% /boot/efi
+tmpfs           506M   32K  506M   1% /run/user/1000
+/dev/sr0         52M   52M     0 100% /media/rosuser/VBox_GAs_7.0.14
+
+==================
+[31mWarning: /dev/sda5 is above 70%[0m
+
+=========================================
+
+CPU Usage:
+Current CPU Usage: 0%
+
+=========================================
+
+Memory Usage:
+
+Total Memory       : 4.93359 GB
+Used Memory        : 0.939453 GB
+Buff/Cached Memory : 0.00683594 GB
+Free Memory        : 2.51172 GB
+
+=========================================
+
+    PID COMMAND         %MEM
+   2124 gnome-shell      6.7
+   2455 snap-store       3.1
+   2591 fwupd            1.7
+   1375 dockerd          1.4
+System Monitoring Alert - 2024-12-06 08:00:01
+
+System Monitoring Report - 2024-12-06 08:00:01
+=========================================
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+udev            2.5G     0  2.5G   0% /dev
+tmpfs           506M  1.5M  504M   1% /run
+/dev/sda5        39G   29G  8.4G  78% /
+tmpfs           2.5G     0  2.5G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           2.5G     0  2.5G   0% /sys/fs/cgroup
+/dev/sda1       511M  4.0K  511M   1% /boot/efi
+tmpfs           506M   32K  506M   1% /run/user/1000
+/dev/sr0         52M   52M     0 100% /media/rosuser/VBox_GAs_7.0.14
+
+==================
+[31mWarning: /dev/sda5 is above 70%[0m
+
+=========================================
+
+CPU Usage:
+Current CPU Usage: 0%
+
+=========================================
+
+Memory Usage:
+
+Total Memory       : 4.93359 GB
+Used Memory        : 0.917969 GB
+Buff/Cached Memory : 0.00488281 GB
+Free Memory        : 2.53223 GB
+
+=========================================
+
+    PID COMMAND         %MEM
+   2124 gnome-shell      6.7
+   2455 snap-store       3.1
+   2591 fwupd            1.7
+   1375 dockerd          1.4
+System Monitoring Alert - 2024-12-06 09:00:01
+
+System Monitoring Report - 2024-12-06 09:00:01
+=========================================
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+udev            2.5G     0  2.5G   0% /dev
+tmpfs           506M  1.5M  504M   1% /run
+/dev/sda5        39G   29G  8.3G  78% /
+tmpfs           2.5G     0  2.5G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           2.5G     0  2.5G   0% /sys/fs/cgroup
+/dev/sda1       511M  4.0K  511M   1% /boot/efi
+tmpfs           506M   32K  506M   1% /run/user/1000
+/dev/sr0         52M   52M     0 100% /media/rosuser/VBox_GAs_7.0.14
+
+==================
+[31mWarning: /dev/sda5 is above 70%[0m
+
+=========================================
+
+CPU Usage:
+Current CPU Usage: 0%
+
+=========================================
+
+Memory Usage:
+
+Total Memory       : 4.93359 GB
+Used Memory        : 0.972656 GB
+Buff/Cached Memory : 0.00878906 GB
+Free Memory        : 2.375 GB
+
+=========================================
+
+    PID COMMAND         %MEM
+   2124 gnome-shell      6.9
+   2455 snap-store       3.1
+   2591 fwupd            1.7
+   1948 Xorg             1.5
+System Monitoring Alert - 2024-12-06 10:00:01
+
+System Monitoring Report - 2024-12-06 10:00:01
+=========================================
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+udev            2.5G     0  2.5G   0% /dev
+tmpfs           506M  1.5M  504M   1% /run
+/dev/sda5        39G   29G  8.3G  78% /
+tmpfs           2.5G     0  2.5G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           2.5G     0  2.5G   0% /sys/fs/cgroup
+/dev/sda1       511M  4.0K  511M   1% /boot/efi
+tmpfs           506M   36K  506M   1% /run/user/1000
+/dev/sr0         52M   52M     0 100% /media/rosuser/VBox_GAs_7.0.14
+
+==================
+[31mWarning: /dev/sda5 is above 70%[0m
+
+=========================================
+
+CPU Usage:
+Current CPU Usage: 0%
+
+=========================================
+
+Memory Usage:
+
+Total Memory       : 4.93359 GB
+Used Memory        : 0.970703 GB
+Buff/Cached Memory : 0.00878906 GB
+Free Memory        : 2.375 GB
+
+=========================================
+
+    PID COMMAND         %MEM
+   2124 gnome-shell      6.9
+   2455 snap-store       3.1
+   2591 fwupd            1.7
+   1948 Xorg             1.5
+System Monitoring Alert - 2024-12-06 11:00:01
+
+System Monitoring Report - 2024-12-06 11:00:01
+=========================================
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+udev            2.5G     0  2.5G   0% /dev
+tmpfs           506M  1.5M  504M   1% /run
+/dev/sda5        39G   29G  8.3G  78% /
+tmpfs           2.5G     0  2.5G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           2.5G     0  2.5G   0% /sys/fs/cgroup
+/dev/sda1       511M  4.0K  511M   1% /boot/efi
+tmpfs           506M   36K  506M   1% /run/user/1000
+/dev/sr0         52M   52M     0 100% /media/rosuser/VBox_GAs_7.0.14
+
+==================
+[31mWarning: /dev/sda5 is above 70%[0m
+
+=========================================
+
+CPU Usage:
+Current CPU Usage: 0%
+
+=========================================
+
+Memory Usage:
+
+Total Memory       : 4.93359 GB
+Used Memory        : 0.913086 GB
+Buff/Cached Memory : 0.00878906 GB
+Free Memory        : 2.43262 GB
+
+=========================================
+
+    PID COMMAND         %MEM
+   2124 gnome-shell      6.9
+   2455 snap-store       3.1
+   1948 Xorg             1.5
+   1375 dockerd          1.5
+System Monitoring Alert - 2024-12-06 12:00:01
+
+System Monitoring Report - 2024-12-06 12:00:01
+=========================================
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+udev            2.5G     0  2.5G   0% /dev
+tmpfs           506M  1.5M  504M   1% /run
+/dev/sda5        39G   29G  8.3G  78% /
+tmpfs           2.5G     0  2.5G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           2.5G     0  2.5G   0% /sys/fs/cgroup
+/dev/sda1       511M  4.0K  511M   1% /boot/efi
+tmpfs           506M   36K  506M   1% /run/user/1000
+/dev/sr0         52M   52M     0 100% /media/rosuser/VBox_GAs_7.0.14
+
+==================
+[31mWarning: /dev/sda5 is above 70%[0m
+
+=========================================
+
+CPU Usage:
+Current CPU Usage: 0%
+
+=========================================
+
+Memory Usage:
+
+Total Memory       : 4.93359 GB
+Used Memory        : 0.912109 GB
+Buff/Cached Memory : 0.00878906 GB
+Free Memory        : 2.43262 GB
+
+=========================================
+
+    PID COMMAND         %MEM
+   2124 gnome-shell      6.9
+   2455 snap-store       3.1
+   1948 Xorg             1.5
+   1375 dockerd          1.5
+System Monitoring Alert - 2024-12-06 13:00:01
+
+System Monitoring Report - 2024-12-06 13:00:01
+=========================================
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+udev            2.5G     0  2.5G   0% /dev
+tmpfs           506M  1.5M  504M   1% /run
+/dev/sda5        39G   29G  8.3G  78% /
+tmpfs           2.5G     0  2.5G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           2.5G     0  2.5G   0% /sys/fs/cgroup
+/dev/sda1       511M  4.0K  511M   1% /boot/efi
+tmpfs           506M   36K  506M   1% /run/user/1000
+/dev/sr0         52M   52M     0 100% /media/rosuser/VBox_GAs_7.0.14
+
+==================
+[31mWarning: /dev/sda5 is above 70%[0m
+
+=========================================
+
+CPU Usage:
+Current CPU Usage: 2.9%
+
+=========================================
+
+Memory Usage:
+
+Total Memory       : 4.93359 GB
+Used Memory        : 0.912109 GB
+Buff/Cached Memory : 0.00878906 GB
+Free Memory        : 2.43262 GB
+
+=========================================
+
+    PID COMMAND         %MEM
+   2124 gnome-shell      6.9
+   2455 snap-store       3.1
+   1948 Xorg             1.5
+   1375 dockerd          1.5
+System Monitoring Alert - 2024-12-06 14:00:01
+
+System Monitoring Report - 2024-12-06 14:00:01
+=========================================
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+udev            2.5G     0  2.5G   0% /dev
+tmpfs           506M  1.5M  504M   1% /run
+/dev/sda5        39G   29G  8.3G  78% /
+tmpfs           2.5G     0  2.5G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           2.5G     0  2.5G   0% /sys/fs/cgroup
+/dev/sda1       511M  4.0K  511M   1% /boot/efi
+tmpfs           506M   36K  506M   1% /run/user/1000
+/dev/sr0         52M   52M     0 100% /media/rosuser/VBox_GAs_7.0.14
+
+==================
+[31mWarning: /dev/sda5 is above 70%[0m
+
+=========================================
+
+CPU Usage:
+Current CPU Usage: 0%
+
+=========================================
+
+Memory Usage:
+
+Total Memory       : 4.93359 GB
+Used Memory        : 0.911133 GB
+Buff/Cached Memory : 0.00878906 GB
+Free Memory        : 2.43359 GB
+
+=========================================
+
+    PID COMMAND         %MEM
+   2124 gnome-shell      6.9
+   2455 snap-store       3.1
+   1948 Xorg             1.5
+   1375 dockerd          1.5
+System Monitoring Alert - 2024-12-06 17:00:01
+
+System Monitoring Report - 2024-12-06 17:00:01
+=========================================
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+udev            2.5G     0  2.5G   0% /dev
+tmpfs           506M  1.5M  504M   1% /run
+/dev/sda5        39G   29G  8.3G  78% /
+tmpfs           2.5G     0  2.5G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           2.5G     0  2.5G   0% /sys/fs/cgroup
+/dev/sda1       511M  4.0K  511M   1% /boot/efi
+tmpfs           506M   36K  506M   1% /run/user/1000
+/dev/sr0         52M   52M     0 100% /media/rosuser/VBox_GAs_7.0.14
+
+==================
+[31mWarning: /dev/sda5 is above 70%[0m
+
+=========================================
+
+CPU Usage:
+Current CPU Usage: 5.8%
+
+=========================================
+
+Memory Usage:
+
+Total Memory       : 4.93359 GB
+Used Memory        : 0.910156 GB
+Buff/Cached Memory : 0.00878906 GB
+Free Memory        : 2.43359 GB
+
+=========================================
+
+    PID COMMAND         %MEM
+   2124 gnome-shell      6.9
+   2455 snap-store       3.1
+   1948 Xorg             1.5
+   1375 dockerd          1.5
+System Monitoring Alert - 2024-12-06 18:00:01
+
+System Monitoring Report - 2024-12-06 18:00:01
+=========================================
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+udev            2.5G     0  2.5G   0% /dev
+tmpfs           506M  1.5M  504M   1% /run
+/dev/sda5        39G   29G  8.3G  78% /
+tmpfs           2.5G     0  2.5G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           2.5G     0  2.5G   0% /sys/fs/cgroup
+/dev/sda1       511M  4.0K  511M   1% /boot/efi
+tmpfs           506M   36K  506M   1% /run/user/1000
+/dev/sr0         52M   52M     0 100% /media/rosuser/VBox_GAs_7.0.14
+
+==================
+[31mWarning: /dev/sda5 is above 70%[0m
+
+=========================================
+
+CPU Usage:
+Current CPU Usage: 0%
+
+=========================================
+
+Memory Usage:
+
+Total Memory       : 4.93359 GB
+Used Memory        : 0.90918 GB
+Buff/Cached Memory : 0.00878906 GB
+Free Memory        : 2.43457 GB
+
+=========================================
+
+    PID COMMAND         %MEM
+   2124 gnome-shell      6.9
+   2455 snap-store       3.1
+   1948 Xorg             1.5
+   1375 dockerd          1.5
+System Monitoring Alert - 2024-12-06 19:00:01
+
+System Monitoring Report - 2024-12-06 19:00:01
+=========================================
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+udev            2.5G     0  2.5G   0% /dev
+tmpfs           506M  1.5M  504M   1% /run
+/dev/sda5        39G   29G  8.3G  78% /
+tmpfs           2.5G     0  2.5G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           2.5G     0  2.5G   0% /sys/fs/cgroup
+/dev/sda1       511M  4.0K  511M   1% /boot/efi
+tmpfs           506M   36K  506M   1% /run/user/1000
+/dev/sr0         52M   52M     0 100% /media/rosuser/VBox_GAs_7.0.14
+
+==================
+[31mWarning: /dev/sda5 is above 70%[0m
+
+=========================================
+
+CPU Usage:
+Current CPU Usage: 0%
+
+=========================================
+
+Memory Usage:
+
+Total Memory       : 4.93359 GB
+Used Memory        : 0.891602 GB
+Buff/Cached Memory : 0.00878906 GB
+Free Memory        : 2.45117 GB
+
+=========================================
+
+    PID COMMAND         %MEM
+   2124 gnome-shell      6.9
+   2455 snap-store       3.1
+   1948 Xorg             1.5
+   1375 dockerd          1.5
+System Monitoring Alert - 2024-12-07 11:00:01
+
+System Monitoring Report - 2024-12-07 11:00:01
+=========================================
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+udev            2.5G     0  2.5G   0% /dev
+tmpfs           506M  1.5M  504M   1% /run
+/dev/sda5        39G   29G  8.3G  78% /
+tmpfs           2.5G     0  2.5G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           2.5G     0  2.5G   0% /sys/fs/cgroup
+/dev/sda1       511M  4.0K  511M   1% /boot/efi
+tmpfs           506M   32K  506M   1% /run/user/1000
+/dev/sr0         52M   52M     0 100% /media/rosuser/VBox_GAs_7.0.14
+
+==================
+[31mWarning: /dev/sda5 is above 70%[0m
+
+=========================================
+
+CPU Usage:
+Current CPU Usage: 5.8%
+
+=========================================
+
+Memory Usage:
+
+Total Memory       : 4.93359 GB
+Used Memory        : 0.984375 GB
+Buff/Cached Memory : 0.00976562 GB
+Free Memory        : 2.47656 GB
+
+=========================================
+
+    PID COMMAND         %MEM
+   2765 gnome-shell      6.7
+   3099 snap-store       4.2
+   3243 fwupd            1.7
+    979 dockerd          1.5
